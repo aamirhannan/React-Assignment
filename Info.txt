@@ -1,0 +1,35 @@
+ {/* 
+        TopBar
+            -Logo
+            -search Scree
+            -Login SignUp button
+
+        NavBar
+            -Home
+            -Deal
+            -Coupon
+            -Stores
+            -Contact Us
+
+        Image Carousel
+
+        Cards * 8
+            -Offers
+            -Logo
+            -Offers
+            -Button
+
+        Deals Of The Day
+            -Cards * 8
+              -Offers
+              -Logo
+              -Offers
+              -Button
+
+        Coupon By Catogery
+            -Cards * 8
+              -Offers
+              -Logo
+              -Offers
+              -Button
+      */}
